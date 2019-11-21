@@ -1,0 +1,21 @@
+v 20130925 2
+C 13000 46400 1 0 0 connector4-1.sym
+{
+T 14800 47300 5 10 0 0 0 0 1
+device=CONNECTOR_4
+T 13100 47900 5 10 1 1 0 0 1
+refdes=CONN1
+}
+C 17400 45500 1 0 1 connector6-1.sym
+{
+T 15600 47300 5 10 0 0 0 6 1
+device=CONNECTOR_6
+T 16900 48000 5 10 1 1 180 6 1
+refdes=CONN2
+}
+T 19000 45200 9 10 1 0 180 0 1
+Pads for RJ25 / 6P6C 6 core cable, or vias for WeDo 2 pins
+T 15100 46200 9 10 1 0 180 0 1
+PowerFunctions connector
+N 14700 47200 15700 47200 4
+N 15700 46900 14700 46900 4

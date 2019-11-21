@@ -29,3 +29,4 @@ directory called "sbrick-adapter-firmware".
 
 Contains schematics for the motor and sensor adapters. The schematic files
 can be opened with [gEDA schematic editor](http://www.geda-project.org/).
+Also contains bill of materials.
