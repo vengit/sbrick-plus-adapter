@@ -1,0 +1,316 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.11.21)  21 NOV 2019 15:06
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/adapter-description.tex
+(/home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/adapter-description.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)) (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2018/11/13 3.27 The Babel package
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+) (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+ (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+)) (/usr/share/texlive/texmf-dist/tex/latex/psnfss/times.sty
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ (/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) (/home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/adapter-description.aux)
+\openout1 = `adapter-description.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 16.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count90
+\scratchdimen=\dimen106
+\scratchbox=\box27
+\nofMPsegments=\count91
+\nofMParguments=\count92
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count93
+\MPscratchDim=\dimen107
+\MPnumerator=\count94
+\makeMPintoPDFobject=\count95
+\everyMPtoPDFconversion=\toks18
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)))) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+ (/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 22.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 27.
+<lego-technic.jpg, id=7, 1505.625pt x 913.16156pt>
+File: lego-technic.jpg Graphic file (type jpg)
+<use lego-technic.jpg>
+Package pdftex.def Info: lego-technic.jpg  used on input line 29.
+(pdftex.def)             Requested size: 384.1122pt x 232.95761pt.
+<lego-power-functions.jpg, id=8, 2409.0pt x 1806.75pt>
+File: lego-power-functions.jpg Graphic file (type jpg)
+<use lego-power-functions.jpg>
+Package pdftex.def Info: lego-power-functions.jpg  used on input line 37.
+(pdftex.def)             Requested size: 384.1122pt x 288.06586pt.
+ [2 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/lego-technic.jpg>]
+<lego-wedo.jpg, id=13, 1420.30624pt x 723.70375pt>
+File: lego-wedo.jpg Graphic file (type jpg)
+<use lego-wedo.jpg>
+Package pdftex.def Info: lego-wedo.jpg  used on input line 46.
+(pdftex.def)             Requested size: 384.1122pt x 195.72285pt.
+ [3 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/lego-power-functions.jpg>]
+<lego-wedo-2.jpg, id=17, 1927.2pt x 783.92876pt>
+File: lego-wedo-2.jpg Graphic file (type jpg)
+<use lego-wedo-2.jpg>
+Package pdftex.def Info: lego-wedo-2.jpg  used on input line 53.
+(pdftex.def)             Requested size: 384.1122pt x 156.24469pt.
+<lego-boost.jpg, id=18, 1284.8pt x 722.7pt>
+File: lego-boost.jpg Graphic file (type jpg)
+<use lego-boost.jpg>
+Package pdftex.def Info: lego-boost.jpg  used on input line 60.
+(pdftex.def)             Requested size: 384.1122pt x 216.0618pt.
+ [4 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/lego-wedo.jpg> </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/lego-wedo-2.jpg>]
+<lego-mindstorms-ev3.jpg, id=22, 903.375pt x 602.25pt>
+File: lego-mindstorms-ev3.jpg Graphic file (type jpg)
+<use lego-mindstorms-ev3.jpg>
+Package pdftex.def Info: lego-mindstorms-ev3.jpg  used on input line 68.
+(pdftex.def)             Requested size: 384.1122pt x 256.07692pt.
+ [5 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/lego-boost.jpg>]
+<lego-mindstorms-nxt.jpg, id=26, 542.5068pt x 317.988pt>
+File: lego-mindstorms-nxt.jpg Graphic file (type jpg)
+<use lego-mindstorms-nxt.jpg>
+Package pdftex.def Info: lego-mindstorms-nxt.jpg  used on input line 75.
+(pdftex.def)             Requested size: 384.1122pt x 225.14713pt.
+ [6 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/lego-mindstorms-ev3.jpg>] [7 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/lego-mindstorms-nxt.jpg>]
+<sensor-populated-circuit.jpg, id=35, 1849.91125pt x 1387.1825pt>
+File: sensor-populated-circuit.jpg Graphic file (type jpg)
+<use sensor-populated-circuit.jpg>
+Package pdftex.def Info: sensor-populated-circuit.jpg  used on input line 104.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+<motor-populated-circuit.jpg, id=36, 1849.91125pt x 1387.1825pt>
+File: motor-populated-circuit.jpg Graphic file (type jpg)
+<use motor-populated-circuit.jpg>
+Package pdftex.def Info: motor-populated-circuit.jpg  used on input line 108.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [8 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/sensor-populated-circuit.jpg>]
+<wedo2-pins.jpg, id=40, 1849.91125pt x 1387.1825pt>
+File: wedo2-pins.jpg Graphic file (type jpg)
+<use wedo2-pins.jpg>
+Package pdftex.def Info: wedo2-pins.jpg  used on input line 112.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [9 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/motor-populated-circuit.jpg>]
+<power-functions-pins.jpg, id=44, 1849.91125pt x 1387.1825pt>
+File: power-functions-pins.jpg Graphic file (type jpg)
+<use power-functions-pins.jpg>
+Package pdftex.def Info: power-functions-pins.jpg  used on input line 116.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [10 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/wedo2-pins.jpg>]
+<wedo2-motor-plastic-insert.jpg, id=48, 1849.91125pt x 1387.1825pt>
+File: wedo2-motor-plastic-insert.jpg Graphic file (type jpg)
+<use wedo2-motor-plastic-insert.jpg>
+Package pdftex.def Info: wedo2-motor-plastic-insert.jpg  used on input line 120.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [11 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/power-functions-pins.jpg>]
+<ev3-motor-plastic-insert.jpg, id=52, 1849.91125pt x 1387.1825pt>
+File: ev3-motor-plastic-insert.jpg Graphic file (type jpg)
+<use ev3-motor-plastic-insert.jpg>
+Package pdftex.def Info: ev3-motor-plastic-insert.jpg  used on input line 124.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [12 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/wedo2-motor-plastic-insert.jpg>]
+<motor-plastic-top.jpg, id=56, 1849.91125pt x 1387.1825pt>
+File: motor-plastic-top.jpg Graphic file (type jpg)
+<use motor-plastic-top.jpg>
+Package pdftex.def Info: motor-plastic-top.jpg  used on input line 128.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [13 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/ev3-motor-plastic-insert.jpg>]
+<motor-plastic-bottom.jpg, id=61, 1849.91125pt x 1387.1825pt>
+File: motor-plastic-bottom.jpg Graphic file (type jpg)
+<use motor-plastic-bottom.jpg>
+Package pdftex.def Info: motor-plastic-bottom.jpg  used on input line 132.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [14 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/motor-plastic-top.jpg>]
+<sensor-plastic-top.jpg, id=65, 1849.91125pt x 1387.1825pt>
+File: sensor-plastic-top.jpg Graphic file (type jpg)
+<use sensor-plastic-top.jpg>
+Package pdftex.def Info: sensor-plastic-top.jpg  used on input line 136.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [15 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/motor-plastic-bottom.jpg>]
+<sensor-plastic-bottom.jpg, id=69, 1849.91125pt x 1387.1825pt>
+File: sensor-plastic-bottom.jpg Graphic file (type jpg)
+<use sensor-plastic-bottom.jpg>
+Package pdftex.def Info: sensor-plastic-bottom.jpg  used on input line 140.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [16 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/sensor-plastic-top.jpg>]
+<ev3-sensor-plastic-insert.jpg, id=73, 1849.91125pt x 1387.1825pt>
+File: ev3-sensor-plastic-insert.jpg Graphic file (type jpg)
+<use ev3-sensor-plastic-insert.jpg>
+Package pdftex.def Info: ev3-sensor-plastic-insert.jpg  used on input line 144.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [17 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/sensor-plastic-bottom.jpg>]
+<wedo2-sensor-plastic-insert.jpg, id=77, 1849.91125pt x 1387.1825pt>
+File: wedo2-sensor-plastic-insert.jpg Graphic file (type jpg)
+<use wedo2-sensor-plastic-insert.jpg>
+Package pdftex.def Info: wedo2-sensor-plastic-insert.jpg  used on input line 148.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [18 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/ev3-sensor-plastic-insert.jpg>]
+<ev3-connector.jpg, id=81, 1849.91125pt x 1387.1825pt>
+File: ev3-connector.jpg Graphic file (type jpg)
+<use ev3-connector.jpg>
+Package pdftex.def Info: ev3-connector.jpg  used on input line 152.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [19 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/wedo2-sensor-plastic-insert.jpg>]
+<ev3-cable.jpg, id=86, 1849.91125pt x 1387.1825pt>
+File: ev3-cable.jpg Graphic file (type jpg)
+<use ev3-cable.jpg>
+Package pdftex.def Info: ev3-cable.jpg  used on input line 156.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [20 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/ev3-connector.jpg>]
+<superglue.jpg, id=90, 1849.91125pt x 1387.1825pt>
+File: superglue.jpg Graphic file (type jpg)
+<use superglue.jpg>
+Package pdftex.def Info: superglue.jpg  used on input line 160.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [21 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/ev3-cable.jpg>]
+<ev3-sensor-adapter.jpg, id=94, 1849.91125pt x 1387.1825pt>
+File: ev3-sensor-adapter.jpg Graphic file (type jpg)
+<use ev3-sensor-adapter.jpg>
+Package pdftex.def Info: ev3-sensor-adapter.jpg  used on input line 164.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [22 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/superglue.jpg>]
+<wedo2-sensor-adapter.jpg, id=98, 1849.91125pt x 1387.1825pt>
+File: wedo2-sensor-adapter.jpg Graphic file (type jpg)
+<use wedo2-sensor-adapter.jpg>
+Package pdftex.def Info: wedo2-sensor-adapter.jpg  used on input line 168.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [23 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/ev3-sensor-adapter.jpg>]
+<ev3-motor-adapter.jpg, id=102, 1849.91125pt x 1387.1825pt>
+File: ev3-motor-adapter.jpg Graphic file (type jpg)
+<use ev3-motor-adapter.jpg>
+Package pdftex.def Info: ev3-motor-adapter.jpg  used on input line 172.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [24 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/wedo2-sensor-adapter.jpg>]
+<wedo2-motor-adapter.jpg, id=106, 1849.91125pt x 1387.1825pt>
+File: wedo2-motor-adapter.jpg Graphic file (type jpg)
+<use wedo2-motor-adapter.jpg>
+Package pdftex.def Info: wedo2-motor-adapter.jpg  used on input line 176.
+(pdftex.def)             Requested size: 384.1122pt x 288.01492pt.
+ [25 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/ev3-motor-adapter.jpg>] [26 </home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/wedo2-motor-adapter.jpg>] [27] (/home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/adapter-description.aux) ) 
+Here is how much of TeX's memory you used:
+ 2353 strings out of 492615
+ 34112 string characters out of 6131323
+ 101092 words of memory out of 5000000
+ 6215 multiletter control sequences out of 15000+600000
+ 23879 words of font info for 32 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,25p,353b,187s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /home/netom/Asztal/vengit/sbrick/sbrick-plus-adapter/documentation/adapter-description.pdf (27 pages, 13222293 bytes).
+PDF statistics:
+ 130 PDF objects out of 1000 (max. 8388607)
+ 71 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+
